@@ -209,3 +209,37 @@ body{
     padding: 20px 30px;
     color: #FFFFFF;
 }
+
+/* main section end */
+
+/* footer section start   */
+.footer{
+    background: #111010;
+    margin-top: 128px;
+}
+.footer-section{
+    text-align: center;
+}
+.footer-title{
+    color: #E55473;
+    font-size: 48px;
+    font-weight: 800;
+    padding: 128px 832px 0px;
+    margin-bottom: 24px;
+}
+.shop{
+    color: #FFFFFF;
+}
+.footer-description{
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 32px;
+    padding: 0px 648px;
+}
+.footer-description1{
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+    font-weight: 400;
+    padding-bottom: 128px;
+}
