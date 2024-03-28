@@ -147,3 +147,28 @@ body{
 .rose-img{
     margin: 130px 430px 100px 160px;
 }
+.social-name{
+    text-align: center;
+    margin-top: 128px;
+    /* margin-bottom: 24px; */
+}
+.social-title{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 24px;
+}
+.social-description{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 0px 663px;
+    margin-bottom: 57px;
+}
+.social1{
+    display: flex;
+    margin: 50px 240px 130px;
+    gap: 24px;
+}
