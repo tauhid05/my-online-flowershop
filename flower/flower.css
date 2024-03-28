@@ -143,6 +143,7 @@ body{
     padding: 20px 43px;
     border: none;
     margin-bottom: 160px;
+    color: #FFFFFF;
 }
 .rose-img{
     margin: 130px 430px 100px 160px;
@@ -171,4 +172,40 @@ body{
     display: flex;
     margin: 50px 240px 130px;
     gap: 24px;
+}
+.form{
+    background-image: url('../Flower Asset/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.form-section{
+    text-align: center;
+    justify-content: center;
+    padding: 120px 287px;
+}
+.form-title{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+.form-description{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+.email{
+    border-radius: 8px;
+    background: #FFF;
+    padding: 20px 513px 20px 22px;
+    margin-right: 16px;
+}
+.btn-third{
+    border-radius: 8px;
+    background: #E55473;
+    padding: 20px 30px;
+    color: #FFFFFF;
 }
